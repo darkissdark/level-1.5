@@ -15,8 +15,7 @@
   },
   "lint-staged": {
     "*.{js,jsx}": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ]
   },
   "devDependencies": {
@@ -25,7 +24,7 @@
     "babel-loader": "^9.1.0",
     "concurrently": "^7.6.0",
     "css-loader": "^6.7.3",
-    "eslint": "^9.26.0",
+    "eslint": "8.56.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
