@@ -15,7 +15,7 @@ GetBacon()
     baconEl.innerHTML = err;
   });
 
-let duration = 5;
+let duration = 6;
 
 const minutesDisplay = document.getElementById('minutes');
 const timeDisplay = document.getElementById('time');
